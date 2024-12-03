@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Actividad315</string>
     <string name="conversion_entre_escalas_de_temperaturas">Conversion entre escalas de temperaturas</string>
+    <string name="celsius">Celsius</string>
+    <string name="farenheit">Farenheit</string>
+    <string name="kelvin">Kelvin</string>
+    <string name="introduce_la_temperatura">Introduce la temperatura</string>
 </resources>
